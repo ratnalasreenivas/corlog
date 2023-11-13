@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>Test-pollSCM-Corelogic1-Latest</finalName>
+    <finalName>Test-pollSCM-Corelogic</finalName>
   </build>
 </project>
